@@ -1,4 +1,4 @@
-# Intermittent supply model: reproducible code
+# Household Piped-Water Deficit Model: reproducible code
 
 Code to reproduce the model results and figures of
 
