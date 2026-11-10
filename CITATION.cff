@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Intermittent supply model: reproducible code"
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+# preferred-citation / doi: fill in once the paper is out
