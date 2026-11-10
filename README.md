@@ -2,7 +2,7 @@
 
 Code to reproduce the model results and figures of
 
-> **[Modelling Urban Household Water Deficits in Intermittent Water Supply System]**, [Gadge S., Vasconcelos V., Krueger E.], [Submitted to Environmental Modelling and Software], [2026]. DOI: [to be added upon publication]
+> **Modelling Urban Household Water Deficits in Intermittent Water Supply System**, Gadge S., Vasconcelos V., Krueger E., Submitted to Environmental Modelling and Software, 2026. DOI: to be added upon publication
 
 The model is a *representative-agent* simulation of piped water supplied intermittently to
 households that own storage tanks, informed by household-survey data from Amman, Jordan. A hierarchical 
