@@ -43,10 +43,10 @@ One representative household per cluster `i`, forward-Euler with `dt = 0.1` day 
 
 | | |
 |---|---|
-| storage state `V_i` | `dv_i/dt = (e_i - D_i) / K_i`, capped at 1 |
-| extraction `e_i` | `e` if `v_i < 1` and supply is on for cluster `i` and `W > 0`, else `0` |
+| storage state `v_i` | `dv_i/dt = (e_i - D_i) / K_i`, capped at 1 |
+| extraction `e_i` | `e` if `v_i < 1` and supply is on for cluster `i` and `w > 0`, else `0` |
 | use `D_i` | `d_i` if `v_i > 0`, else `0` |
-| municipal water `W` | `dW/dt = - sum_i n_i e_i / M`; reset to 1 at the start of every week |
+| municipal water `w` | `dw/dt = - sum_i n_i e_i / M`; reset to 1 at the start of every week |
 | **outcome** | share of time steps with `D_i = 0` ("frequency of running out of water") |
 
 Supply `S_i(t)` is a binary weekly signal that is on for `s_i` days. *Simultaneous* supply starts all
