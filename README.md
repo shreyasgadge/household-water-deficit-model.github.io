@@ -12,7 +12,6 @@ of water under different combinations of extraction rates, municipal-water avail
 **simultaneous vs sequential** supply schedules, to understand urban household water deficits. The sensitivity of water deficits to different parameters
 is understood using a global (Sobol) sensitivity analysis.
 
-![Deficit frequency vs extraction rate and municipal water](docs/figures/Composite_PS_eMx.png)
 
 ## Quick start
 
